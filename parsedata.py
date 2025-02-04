@@ -82,6 +82,7 @@ for ym, measurements in monthly_data.items():
 
     monthly_avg[ym] = (avg_daglan, avg_vidskipti, avg_styrir)
 
+
 # Raða eftir year_month í vaxandi röð
 sorted_months = sorted(monthly_avg.keys())
 
