@@ -28,6 +28,7 @@ Travel was lowest during COVID-19 lockdowns, despite historically low interest r
 External factors such as currency fluctuations and economic conditions also impact travel decisions.
 
 👥 Contributors
+
 Bjarki Dan Andrésson - bjarkida22@ru.is
 
 Dagur Már Oddsson - dagurmo22@ru.is
